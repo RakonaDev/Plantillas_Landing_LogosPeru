@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.shadow-pers {
+  box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+}
+
+@font-face {
+  font-family: 'Nove';
+  src: url('/public/Nove.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'NoveBold';
+  src: url('/public/NoveBold.otf') format('opentype');
+}
+
+.Nove-font {
+  font-family: 'Nove', sans-serif;
+}
+
+.Nove-font-bold {
+  font-family: 'NoveBold', sans-serif;
+}

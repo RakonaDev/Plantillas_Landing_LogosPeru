@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-      <BrowserRouter basename='/landingpage/plantilla7/horizon-transport'>
+      <BrowserRouter basename='/landing_page/plantilla7/horizon-transport'>
         <Routes>
           <Route path='/' element={<Inicio />} />
         </Routes>

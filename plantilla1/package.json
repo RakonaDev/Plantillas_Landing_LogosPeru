@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "/landingpage/plantilla7/horizon-transport",
+  "homepage": "/landing_page/plantilla7/horizon-transport",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",

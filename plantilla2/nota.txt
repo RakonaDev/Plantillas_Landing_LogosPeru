@@ -1,0 +1,5 @@
+diferencia leasing = monto total - monto final,
+diferencia detraccion = diferencia total
+suma de la diferencia leasing + monto final detracción 
+
+leasing, cuadre de leasing, cuadre de operaciones, cuadre facturas

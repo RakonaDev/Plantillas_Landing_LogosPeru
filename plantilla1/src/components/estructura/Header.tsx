@@ -33,18 +33,16 @@ export default function Header() {
 
           <ul className="lg:flex gap-4 items-center hidden">
             <li onClick={() => scrollToElement('inicio')} className="hover:text-primary duration-300 transition-colors font-ConstellationTLPro-Bold tracking-wider cursor-pointer">INICIO</li>
-            <li onClick={() => scrollToElement('nosotros')}  className="hover:text-primary duration-300 transition-colors font-ConstellationTLPro-Bold tracking-wider cursor-pointer">NOSOTROS</li>
+            <li onClick={() => scrollToElement('nosotros')} className="hover:text-primary duration-300 transition-colors font-ConstellationTLPro-Bold tracking-wider cursor-pointer">NOSOTROS</li>
             <li onClick={() => scrollToElement('servicios')} className="hover:text-primary duration-300 transition-colors font-ConstellationTLPro-Bold tracking-wider cursor-pointer">SERVICIOS</li>
             <li onClick={() => scrollToElement('contacto')} className="hover:text-primary duration-300 transition-colors font-ConstellationTLPro-Bold tracking-wider cursor-pointer">CONTACTO</li>
-
-
-
-            <a href="#" className=" px-4 py-2 bg-black text-white rounded-full font-ConstellationTLPro-Bold tracking-wider hover:text-secondary duration-300 transition-colors">
-              BROCHURE
-            </a>
           </ul>
 
-          <button className="lg:hidden" onClick={toggle}>
+          <a href="#" className="lg:block hidden px-4 py-2 bg-black text-white rounded-full font-ConstellationTLPro-Bold tracking-wider hover:text-secondary duration-300 transition-colors">
+            BROCHURE
+          </a>
+
+          <button className="lg:hidden p-2 rounded-full bg-quaternary text-black hover:bg-quaternary/60 duration-300 transition-colors" onClick={toggle}>
             <IoMdMenu size={30} />
           </button>
 

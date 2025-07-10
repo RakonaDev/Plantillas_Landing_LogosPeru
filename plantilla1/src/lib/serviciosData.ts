@@ -14,28 +14,28 @@ export interface ServicioData {
 export const serviciosData: ServicioData[] = [
   {
     imagen: Servicio1,
-    titulo: "Traslados al Aeropuerto y Recepción Turística",
-    descripcion: "Servicio especializado para turistas y viajeros frecuentes. Incluye recojo puntual en aeropuerto, asistencia con equipaje y opción de guía turística básica durante el trayecto. Ideal para quienes visitan el país por primera vez o quieren una llegada cómoda y segura."
+    titulo: "Alquiler de Autos por Día, Semana o Mes",
+    descripcion: "Servicio estándar para quienes necesitan un vehículo por un período corto o medio. Incluye opciones económicas, intermedias y de lujo, con seguros y asistencia incluida."
   },
   {
     imagen: Servicio2,
-    titulo: "City Tours y Rutas Turísticas Personalizadas",
-    descripcion: "Recorridos turísticos privados o grupales con chofer-guía opcional. Ofrecemos rutas hacia los principales atractivos culturales, gastronómicos y naturales de la ciudad o región. Incluye paradas programadas y opciones de itinerario a medida."
+    titulo: "Alquiler para Turismo (Auto + Rutas Recomendadas)",
+    descripcion: "Dirigido a turistas nacionales e internacionales. Incluye autos cómodos, mapas con rutas turísticas, GPS, y asesoría personalizada sobre destinos y puntos de interés."
   },
   {
     imagen: Servicio3,
-    titulo: "Transporte Ejecutivo Corporativo",
-    descripcion: "Traslados elegantes y profesionales para ejecutivos, reuniones, eventos y delegaciones empresariales. Vehículos modernos con WiFi, aire acondicionado y atención confidencial. Disponibilidad por horas, días o rutas específicas."
+    titulo: "Alquiler Corporativo para Empresas",
+    descripcion: "Servicio exclusivo para empresas que necesitan movilidad para sus colaboradores. Contratos flexibles, facturación mensual, mantenimiento incluido y beneficios especiales por flota."
   },
   {
     imagen: Servicio4,
-    titulo: "Viajes Interprovinciales y Servicios Privados Nacionales",
-    descripcion: "Viajes a medida entre ciudades, con horarios flexibles y paradas acordadas. Ideal para familias, grupos o empresas que necesitan moverse con seguridad y sin depender del transporte público."
+    titulo: "Alquiler con Chofer Profesional",
+    descripcion: "Ideal para clientes que desean despreocuparse de manejar. Ofrecemos conductores capacitados, puntualidad, seguridad y atención ejecutiva, perfecto para eventos, traslados y turismo VIP."
   },
   {
     imagen: Servicio5,
-    titulo: "Reservas Programadas y Servicio 24/7",
-    descripcion: "Ofrecemos atención permanente para clientes que requieren traslados en horarios especiales o que desean dejar su viaje agendado con anticipación. Incluye seguimiento por WhatsApp, confirmación vía correo y soporte inmediato ante cualquier cambio."
+    titulo: "Entrega y Recojo a Domicilio o Aeropuerto",
+    descripcion: "Servicio adicional que mejora la experiencia del cliente: llevamos y recogemos el vehículo en la ubicación que elija (casa, oficina, hotel o aeropuerto), ahorrando tiempo y ofreciendo máxima comodidad."
   },
 
 ]
