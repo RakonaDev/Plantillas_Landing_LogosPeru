@@ -3,10 +3,11 @@ import { BrowserRouter, Route, Routes } from 'react-router-dom'
 import Inicio from './pages/Inicio'
 
 function App() {
+  const routerBasename = import.meta.env.VITE_BASE_PATH || '/'
 
   return (
     <>
-      <BrowserRouter basename='/landing_page/plantilla7/horizon-transport'>
+      <BrowserRouter basename={routerBasename}>
         <Routes>
           <Route path='/' element={<Inicio />} />
         </Routes>
