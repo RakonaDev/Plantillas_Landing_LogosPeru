@@ -49,14 +49,14 @@ Cada carpeta contiene una plantilla independiente:
 
 Las siguientes rutas se tomaron del campo `homepage` configurado en cada `package.json`. Si ya existe un dominio productivo, solo debes reemplazar `https://tu-dominio.com` por el dominio real.
 
-| Plantilla | URL de produccion sugerida | Base path configurado |
-| --- | --- | --- |
-| plantilla1 | https://tu-dominio.com/landing_page/plantilla7/horizon-transport | /landing_page/plantilla7/horizon-transport |
-| plantilla2 | https://tu-dominio.com/landing_page/plantilla8/ | /landing_page/plantilla8/ |
-| plantilla3 | https://tu-dominio.com/landing_page/plantilla9/ | /landing_page/plantilla9/ |
-| plantilla4 | https://tu-dominio.com/landing_page/plantilla10/ | /landing_page/plantilla10/ |
-| plantilla5 | https://tu-dominio.com/landing_page/plantilla11/ | /landing_page/plantilla11/ |
-| plantilla6 | https://tu-dominio.com/landing_page/plantilla12/ | /landing_page/plantilla12/ |
+| Plantilla | URL de produccion sugerida |
+| --- | --- |
+| plantilla1 | https://juancajplantilla1.netlify.app/ |
+| plantilla2 | https://juancajplantilla2.netlify.app/ |
+| plantilla3 | https://juancajplantilla3.netlify.app/ |
+| plantilla4 | https://juancajplantilla4.netlify.app/ |
+| plantilla5 | https://juancajplantilla5.netlify.app/ |
+| plantilla6 | https://juancajplantilla6.netlify.app/ |
 
 ## Notas
 
