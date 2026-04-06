@@ -1,6 +1,5 @@
 import { IoEyeSharp, IoHome, IoMail, IoPhonePortrait } from "react-icons/io5";
 import Footer from "../components/estructura/Footer";
-import Header from "../components/estructura/Header";
 import Container from "../components/features/Container";
 import SwiperBanners from "../components/utils/SwiperBanners";
 import { FaMedal } from "react-icons/fa6";
